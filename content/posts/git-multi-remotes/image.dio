@@ -1,0 +1,115 @@
+<mxfile host="65bd71144e">
+    <diagram id="UHgXeDoBpVsrpEmhq8sj" name="Page-2">
+        <mxGraphModel dx="770" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="ruuf0Zd3PN0EHJxf5hk0-0"/>
+                <mxCell id="ruuf0Zd3PN0EHJxf5hk0-1" parent="ruuf0Zd3PN0EHJxf5hk0-0"/>
+                <mxCell id="b2d7lm_jroxrxiKYLu0l-1" value="" style="group" parent="ruuf0Zd3PN0EHJxf5hk0-1" vertex="1" connectable="0">
+                    <mxGeometry x="140" y="190" width="440" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="b2d7lm_jroxrxiKYLu0l-0" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#ffffff;strokeColor=none;" parent="b2d7lm_jroxrxiKYLu0l-1" vertex="1">
+                    <mxGeometry width="440" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-4" value="" style="group;fillColor=#FFFFFF;" parent="b2d7lm_jroxrxiKYLu0l-1" vertex="1" connectable="0">
+                    <mxGeometry x="30.53" y="20" width="378.95" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-5" value="2つの異なるサーバーを一つの名前で管理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L4b5ciKE3ClAzjp6qdLl-4" vertex="1">
+                    <mxGeometry y="151.57894736842104" width="164.21166666666664" height="56.84210526315789" as="geometry"/>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-6" value="" style="group" parent="L4b5ciKE3ClAzjp6qdLl-4" vertex="1" connectable="0">
+                    <mxGeometry width="378.95" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-8" value="&quot;origin&quot;&lt;br&gt;Remote Repo 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="L4b5ciKE3ClAzjp6qdLl-6" vertex="1">
+                    <mxGeometry x="261.34482758620686" width="117.6051724137931" height="101.05263157894737" as="geometry"/>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-9" value="git push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="L4b5ciKE3ClAzjp6qdLl-6" source="L4b5ciKE3ClAzjp6qdLl-7" edge="1">
+                    <mxGeometry y="15" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="261.34482758620686" y="63.1578947368421"/>
+                        </Array>
+                        <mxPoint x="261.34482758620686" y="63.1578947368421" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="L4b5ciKE3ClAzjp6qdLl-6" target="L4b5ciKE3ClAzjp6qdLl-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="182.94137931034484" y="63.1578947368421"/>
+                            <mxPoint x="182.94137931034484" y="189.4736842105263"/>
+                        </Array>
+                        <mxPoint x="104.53793103448275" y="63.1578947368421" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-12" value="git push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="L4b5ciKE3ClAzjp6qdLl-6" edge="1">
+                    <mxGeometry y="15" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="261.34482758620686" y="63.1578947368421"/>
+                        </Array>
+                        <mxPoint x="261.34482758620686" y="63.1578947368421" as="targetPoint"/>
+                        <mxPoint x="104.53793103448275" y="63.1578947368421" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-13" value="&quot;origin&quot;&lt;br&gt;Remote Repo 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="L4b5ciKE3ClAzjp6qdLl-6" vertex="1">
+                    <mxGeometry x="261.34482758620686" y="138.94736842105263" width="117.6051724137931" height="101.05263157894737" as="geometry"/>
+                </mxCell>
+                <mxCell id="L4b5ciKE3ClAzjp6qdLl-7" value="Local Repo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="L4b5ciKE3ClAzjp6qdLl-4" vertex="1">
+                    <mxGeometry x="-0.0060980459770119825" width="117.6051724137931" height="101.05263157894737" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="JhjiJEeYaU2V8I0gF4Ls" name="Page-1">
+        <mxGraphModel dx="770" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="16" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="80" y="400" width="440" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#ffffff;strokeColor=none;" parent="16" vertex="1">
+                    <mxGeometry width="440" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="group;" parent="16" vertex="1" connectable="0">
+                    <mxGeometry x="30.53" y="20" width="378.95" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="group;fillColor=#ffffff;container=0;labelBackgroundColor=none;labelBorderColor=none;" parent="14" vertex="1" connectable="0">
+                    <mxGeometry width="378.95" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="2つの異なるサーバーを&lt;br&gt;別々に管理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="14" vertex="1">
+                    <mxGeometry x="3.7894999999999968" y="151.57894736842104" width="170.07636904761907" height="56.84210526315789" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="group" parent="14" vertex="1" connectable="0">
+                    <mxGeometry width="378.95" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Local Repo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="12" vertex="1">
+                    <mxGeometry width="113.68499999999999" height="101.05263157894737" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&quot;origin&quot;&lt;br&gt;Remote Repo 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="12" vertex="1">
+                    <mxGeometry x="261.6523433333333" width="117.29765666666665" height="101.05263157894737" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="git push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="12" source="2" edge="1">
+                    <mxGeometry y="15" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="261.6559523809524" y="37.89473684210526"/>
+                        </Array>
+                        <mxPoint x="261.6559523809524" y="37.89473684210526" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&quot;hoge&quot;&lt;br&gt;Remote Repo 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="12" vertex="1">
+                    <mxGeometry x="261.6523433333333" y="138.94736842105263" width="117.29765666666665" height="101.05263157894737" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="git push hoge HEAD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;" parent="12" source="2" target="4" edge="1">
+                    <mxGeometry x="-0.4815" y="-10" relative="1" as="geometry">
+                        <mxPoint x="10" y="-10" as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="183.15916666666664" y="75.78947368421052"/>
+                            <mxPoint x="183.15916666666664" y="195.78947368421052"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

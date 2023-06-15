@@ -1,0 +1,14 @@
+@startuml only-origin
+
+database LocalRepo as local
+database RemoteRepo <<origin>> as origin
+database RemoteRepo <<hoge>> as hoge
+
+local -> origin: git push
+local -> hoge: git push hoge HEAD
+
+origin -[hidden]- hoge
+
+remove @unlinked
+
+@enduml
