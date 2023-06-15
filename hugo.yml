@@ -1,14 +1,15 @@
 baseURL: 'https://examplesite.com/'
-title: ExampleSite
+title: 'Coppla Note'
 paginate: 5
 theme: PaperMod
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-Q1W14X9JNE
 
 minify:
   disableXML: true
@@ -16,11 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: 'ExampleSite description'
+  title: 'Coppla Note'
+  description: 'ソフトエンジニアとして働く筆者がひたすら楽してプログラミングをするために考えていること、実践していることを紹介します。'
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
-  # author: ["Me", "You"] # multiple authors
   images: ['<link or path of image for opengraph, twitter-cards>']
   DateFormat: 'January 2, 2006'
   defaultTheme: auto # dark, light
@@ -52,37 +52,20 @@ params:
     safari_pinned_tab: '<link / abs url>'
 
   label:
-    text: 'Home'
+    text: 'Coppla Note'
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: 'This is subtitle'
-    imageUrl: '<img location>'
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: 'Coppla Note'
     Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
-      url: 'https://twitter.com/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com'
+      url: 'https://twitter.com/coppla601'
     - name: github
-      url: 'https://github.com/'
+      url: 'https://github.com/shin-hama'
 
   analytics:
     google:
@@ -98,7 +81,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: 'https://github.com/<path_to_repo>/content'
+    URL: 'https://github.com/shin-hama/coppla-note-hugo/content'
     Text: 'Suggest Changes' # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -132,7 +115,12 @@ markup:
   highlight:
     noClasses: false
     # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
