@@ -21,11 +21,6 @@ images: ['./images/CalendarApi.png']
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://developers.google.com/calendar/api" data-iframely-url="//cdn.iframe.ly/I5ogSFu?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-## 目次
-
-```toc
-```
-
 ## Google Calendar API の概要
 
 Google Calendar API はその名の通り、 Google Calendar をアプリケーションと連携させるために用意された RESTful API です。

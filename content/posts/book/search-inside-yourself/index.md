@@ -29,11 +29,6 @@ TocOpen: false
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://mindful-leadership.jp/siy/" data-iframely-url="//cdn.iframe.ly/RtfOBox?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-## 目次
-
-```toc
-```
-
 ## 瞑想で注意力を鍛える
 
 本の中では、瞑想を注意力のトレーニングと扱っている。

@@ -23,11 +23,6 @@ images: ['./images/AzurePython.png']
 
 <https://github.com/shin-hama/blog-sample/tree/main/FunctionSample>
 
-## 目次
-
-```toc
-```
-
 ## Azure Functions とは
 
 Microsoft が提供するクラウドコンピューティングサービスの一つで、サーバーレスなシステムの構築を実現するためのサービスです。
