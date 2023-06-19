@@ -2,8 +2,12 @@
 title: '"イシューからはじめよ" を読んで価値ある仕事を見極めよ【書籍紹介】'
 date: '2021-11-11T09:53:02'
 description: ''
-tag: 'Book'
-featured: 'images/Feature.png'
+tags: ["Book"]
+categories: ["Book"]
+series: ["Book Review"]
+ShowToc: true
+TocOpen: false
+images: ['./images/Feature.png']
 ---
 
 こぷらです。

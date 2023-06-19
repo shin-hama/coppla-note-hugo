@@ -2,8 +2,12 @@
 title: 'エンジニアとしてステップアップしたいなら個人開発をしよう'
 date: '2021-12-04T09:30:59'
 description: 'エンジニアとして初心者からステップアップしたいなら個人開発をやってみましょう。この記事では個人開発で得られるメリットとかんたんなアイデアを紹介しています'
-tag: 'エンジニア論'
-featured: 'images/hero.png'
+tags: ["エンジニア論"]
+categories: ["エンジニア論"]
+series: ["エンジニア論"]
+ShowToc: true
+TocOpen: false
+images: ['images/hero.png']
 ---
 
 こんにちは、こぷらです。

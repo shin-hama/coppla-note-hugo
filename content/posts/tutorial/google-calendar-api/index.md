@@ -2,8 +2,12 @@
 title: 'Python で Google Calendar API を使ってみた'
 date: '2021-10-27T10:36:07'
 description: 'Python で Google Calendar API を使ってみた際の備忘録です。OAuth クライアントを使う方法とサービスアカウントを使う方法の 2 パターンを紹介しています'
-tag: 'Tutorial'
-featured: './images/CalendarApi.png'
+tags: ["Tutorial"]
+categories: ["Tutorial"]
+series: ["Tutorial"]
+ShowToc: true
+TocOpen: false
+images: ['./images/CalendarApi.png']
 ---
 
 こぷらです。

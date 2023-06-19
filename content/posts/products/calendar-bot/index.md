@@ -2,8 +2,12 @@
 title: 'ブログを投稿すると Google Calender にイベントを追加する Bot を作ってみた'
 date: '2021-10-25T09:00:59'
 description: 'ブログの成果を見える化するための Bot を作りました。Google Calendar API と Azure functions, Github Actions を組み合わせて作りました。'
-tag: 'Products'
-featured: './Products.png'
+tags: ["個人開発"]
+categories: ["個人開発"]
+series: ["個人開発"]
+ShowToc: true
+TocOpen: false
+images: ['./Products.png']
 ---
 
 こぷらです。

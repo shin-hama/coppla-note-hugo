@@ -2,7 +2,11 @@
 title: 'Material UI v5 を使ってみる'
 date: '2021-10-07T09:28:34'
 description: ''
-tag: 'Web アプリ'
+tags: ["Tutorial"]
+categories: ["Tutorial"]
+series: ["Tutorial"]
+ShowToc: true
+TocOpen: false
 ---
 
 こぷらです。

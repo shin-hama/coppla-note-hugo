@@ -2,7 +2,11 @@
 title: '"Search Inside Yourself" を読んで心を動かされない人間になる【書籍紹介】'
 date: '2021-10-12T06:01:20'
 description: ''
-tag: 'Book'
+tags: ["Book"]
+categories: ["Book"]
+series: ["Book Review"]
+ShowToc: true
+TocOpen: false
 ---
 
 こぷらです。

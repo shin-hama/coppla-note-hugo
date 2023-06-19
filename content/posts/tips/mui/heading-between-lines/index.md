@@ -2,21 +2,25 @@
 title: 'MUI の sx props を活用して線に挟まれた見出しを作る方法'
 date: '2022-04-28T05:55:57'
 description: 'React用のコンポーネントライブラリ"MUI"を使って、線に挟まれた見出しをデザインする方法を紹介します。'
-tag: 'MUI'
-featured: './mui-tips.png'
+tags: ["MUI"]
+categories: ["MUI"]
+series: ["MUI"]
+ShowToc: true
+TocOpen: false
+images: ['./mui-tips.png']
 ---
 
 こぷらです。
 今回は MUI を使って線で挟まれた見出しを作る方法を紹介します。
 線で挟まれた見出しとは以下のようなものです。
 
-![Sample image for heading](images/sample.png.png)
+![Sample image for heading](images/sample.png)
 
 ちなみに MUI とはスタイル済みの美しいコンポーネント郡を提供してくれるライブラリです。
 [こちら](/content/posts/tutorial/mui-v5)でも紹介しているので、気になる方は御覧ください。
 公式のドキュメントは以下になります。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://mui.com/" data-iframely-url="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fmui.com%2F&key=37914d271960f6f0f0021b0c9e39847b"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<https://mui.com/>
 
 それでは早速見ていきましょう
 

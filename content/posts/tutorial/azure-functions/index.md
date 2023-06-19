@@ -2,8 +2,12 @@
 title: 'Azure Functions を使って Python スクリプトを API 化する'
 date: '2021-11-04T09:47:59'
 description: ''
-tag: 'Tutorial'
-featured: './images/AzurePython.png'
+tags: ["Tutorial"]
+categories: ["Tutorial"]
+series: ["Tutorial"]
+ShowToc: true
+TocOpen: false
+images: ['./images/AzurePython.png']
 ---
 
 こぷらです。
@@ -17,7 +21,7 @@ featured: './images/AzurePython.png'
 それでは早速やってみましょう。
 記事で紹介したコードは以下の Repository に保存してあります。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/shin-hama/blog-sample/tree/main/FunctionSample" data-iframely-url="//cdn.iframe.ly/K1OxILG?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<https://github.com/shin-hama/blog-sample/tree/main/FunctionSample>
 
 ## 目次
 

@@ -2,8 +2,12 @@
 title: '【個人開発】画像を並べたコラージュ画像を印刷するアプ ’Collage Printer’ を作ってみた'
 date: '2022-05-12T06:07:29'
 description: '画像を Grid (格子) 状に並べたコラージュ画像を作成・印刷する Web アプリ Collage Printer を作ってみました。本記事では、アプリの簡単な使い方と開発上の工夫点を紹介しています。'
-tag: 'Products'
-featured: './images/hero.png'
+tags: ["個人開発"]
+categories: ["個人開発"]
+series: ["個人開発"]
+ShowToc: true
+TocOpen: false
+images: ['./images/hero.png']
 ---
 
 こぷらです。
@@ -19,9 +23,6 @@ featured: './images/hero.png'
 紹介だけで終わってしまうのも味気ないですしね。
 
 それでは早速始めましょう
-
-```toc
-```
 
 ## アプリの背景
 

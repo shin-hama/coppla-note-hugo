@@ -2,8 +2,12 @@
 title: '"書くのがしんどい" を読んで伝わる文章術を学べ 【書籍紹介】'
 date: '2021-11-26T06:45:46'
 description: 'なにかを書くのはとてもしんどい作業です。書籍"書くのがしんどい"ではそのしんどい原因を解説し、具体的な対策も紹介しています。本書の中から特にためになった要素を3つ紹介します。'
-tag: 'Book'
-featured: './images/Feature.png'
+tags: ["Book"]
+categories: ["Book"]
+series: ["Book Review"]
+ShowToc: true
+TocOpen: false
+images: ['./images/Feature.png']
 ---
 
 こんにちは、こぷらです。  
